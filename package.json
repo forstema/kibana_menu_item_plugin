@@ -1,10 +1,10 @@
 {
-  "name": "logstash_menu_item",
-  "version": "0.0.1",
+  "name": "kibana_menu_item_plugin",
+  "version": "0.0.0",
   "description": "menu item dedicated to logging",
   "main": "index.js",
   "kibana": {
-    "version": "6.6.1",
+    "version": "kibana",
     "templateVersion": "1.0.0"
   },
   "scripts": {

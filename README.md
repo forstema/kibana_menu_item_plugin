@@ -1,4 +1,4 @@
-# logstash_menu_item
+# kibana_menu_item_plugin
 
 > menu item dedicated to logging
 

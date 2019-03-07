@@ -1,7 +1,7 @@
 export default function (kibana) {
   return new kibana.Plugin({
     require: ['elasticsearch'],
-    name: 'logstash_menu_item',
+    name: 'kibana_menu_item_plugin',
     uiExports: {
       links: [
         {
